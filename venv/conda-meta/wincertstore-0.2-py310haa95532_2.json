@@ -1,0 +1,62 @@
+{
+  "build": "py310haa95532_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\tusha\\anaconda3\\pkgs\\wincertstore-0.2-py310haa95532_2",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/wincertstore.cpython-310.pyc",
+    "Lib/site-packages/wincertstore-0.2-py3.10.egg-info",
+    "Lib/site-packages/wincertstore.py",
+    ".nonadmin"
+  ],
+  "fn": "wincertstore-0.2-py310haa95532_2.conda",
+  "legacy_bz2_md5": "d6edc9b21d93ba2c136e663661c884ac",
+  "legacy_bz2_size": 15691,
+  "license": "PSF 2",
+  "link": {
+    "source": "C:\\Users\\tusha\\anaconda3\\pkgs\\wincertstore-0.2-py310haa95532_2",
+    "type": 1
+  },
+  "md5": "9bb31a9caf8cb78cfe526cad2575d6d6",
+  "name": "wincertstore",
+  "package_tarball_full_path": "C:\\Users\\tusha\\anaconda3\\pkgs\\wincertstore-0.2-py310haa95532_2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/wincertstore.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "d50974d1c980ba66e276043489c8165aad37e8e3a3fa8b2603d4ffc7d313ebf4",
+        "sha256_in_prefix": "d50974d1c980ba66e276043489c8165aad37e8e3a3fa8b2603d4ffc7d313ebf4",
+        "size_in_bytes": 11135
+      },
+      {
+        "_path": "Lib/site-packages/wincertstore-0.2-py3.10.egg-info",
+        "path_type": "hardlink",
+        "sha256": "be59641c20270fd1bd0dd362080d9f1c33586f91971f9cc5630f0b338f119184",
+        "sha256_in_prefix": "be59641c20270fd1bd0dd362080d9f1c33586f91971f9cc5630f0b338f119184",
+        "size_in_bytes": 5788
+      },
+      {
+        "_path": "Lib/site-packages/wincertstore.py",
+        "path_type": "hardlink",
+        "sha256": "9eb1879f68dcdd125eb0ed737ed331f16e335a6a5208ec9f26fd3dd6220cfd08",
+        "sha256_in_prefix": "9eb1879f68dcdd125eb0ed737ed331f16e335a6a5208ec9f26fd3dd6220cfd08",
+        "size_in_bytes": 11873
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "c4f537348c58cbb3f5cfbc331fc0b5afc9db46002c08ff3d36446631fe720902",
+  "size": 15772,
+  "subdir": "win-64",
+  "timestamp": 1633019078734,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/wincertstore-0.2-py310haa95532_2.conda",
+  "version": "0.2"
+}
