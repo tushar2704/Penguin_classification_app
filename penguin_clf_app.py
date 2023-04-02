@@ -68,7 +68,7 @@ else:
     st.write(df)
 
 # Reads in saved clf model
-load_clf =pickle.load(open('D:\Penguin_classification_app\penguin_clf.pkl','rb'))
+load_clf =pickle.load(open('penguin_clf.pkl','rb'))
 
 # Apply model to make predictions
 prediction = load_clf.predict(df)
